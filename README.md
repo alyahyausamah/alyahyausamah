@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alyahyausamah
+- 👀 I’m interested in Programming and databases
+- 🌱 I’m currently learning c#
+- 📫 alyahyausamah@gmail.com
